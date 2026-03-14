@@ -99,7 +99,7 @@ export default function AdminLogin() {
                   value={email}
                   onChange={(e) => setEmail(e.target.value)}
                   className="focus:ring-2 focus:ring-blue-500 focus:border-blue-500 block w-full pl-11 sm:text-sm border-slate-300 rounded-xl py-3.5 transition-all bg-slate-50 focus:bg-white"
-                  placeholder="admin@dayanand.edu"
+                  placeholder="admin@1234.edu"
                 />
               </div>
             </div>
