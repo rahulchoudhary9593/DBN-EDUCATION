@@ -162,8 +162,8 @@ export default function AdminLogin() {
           </form>
           
           <div className="mt-8 pt-6 border-t border-slate-100 text-center text-xs text-slate-500 bg-slate-50 rounded-xl p-4">
-            <p className="font-semibold text-slate-700 mb-1">Demo Credentials</p>
-            <p className="font-mono">admin@dayanand.edu / admin123</p>
+            {/* <p className="font-semibold text-slate-700 mb-1">Demo Credentials</p>
+            <p className="font-mono">admin@dayanand.edu / admin123</p> */}
           </div>
         </div>
       </motion.div>
