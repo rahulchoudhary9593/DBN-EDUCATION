@@ -178,9 +178,13 @@ Dhanyavaad.`;
           <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
             <div className="col-span-1 md:col-span-1">
               <div className="flex items-center space-x-3 mb-6">
-                <div className="w-10 h-10 bg-white rounded-full flex items-center justify-center text-slate-900 font-bold text-xl font-serif">
-                  DEG
-                </div>
+              <div>
+                <img
+                  src="https://scontent.fbep1-1.fna.fbcdn.net/v/t39.30808-1/338164863_142285068779721_6490969435390663081_n.jpg?stp=dst-jpg_s200x200_tt6&_nc_cat=105&ccb=1-7&_nc_sid=2d3e12&_nc_ohc=s9xoRDKd_W8Q7kNvwFMo8tj&_nc_oc=AdkiYaCakVkxPag0pqN-jfJMK6Ra-ngWV3V_toqod9mDxQdQQr2bqOZRcvsnDNR-v58&_nc_zt=24&_nc_ht=scontent.fbep1-1.fna&_nc_gid=zgcM8kyCBYiF-iOZQJFY0Q&_nc_ss=8&oh=00_Afx4VQ3NrE0gl8U8cHOcllLF8TLQc6tPMiTMvtGiUMgH6A&oe=69BAF7AD"
+                  alt="Dayanand Education Group Logo"
+                  className="w-10 h-10 object-contain"
+                />
+              </div>
                 <h2 className="text-xl font-bold font-serif">Dayanand Education Group</h2>
               </div>
               <p className="text-slate-400 text-sm leading-relaxed">
